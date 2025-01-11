@@ -1,0 +1,14 @@
+.img {
+    max-width: 650px;
+    width: 100%;
+}
+
+.text {
+    max-width: 650px;
+    text-wrap: balance;
+}
+
+.button {
+    background-color: darkslategray;
+}
+
